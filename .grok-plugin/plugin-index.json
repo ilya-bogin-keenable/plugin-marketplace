@@ -406,8 +406,8 @@
       }
     },
     "keenable": {
-      "sha": "350fd05a76a3e7bc6b6dbef616f30c9d08ce6c90",
-      "version": "1.0.0",
+      "sha": "78881644be1e3980f9e720177e10897285198e64",
+      "version": "1.0.1",
       "components": {
         "mcpServers": [
           {
